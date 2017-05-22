@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Latin Production\.android\build-cache\b3c793b50e64f5d40079ffc8d8291b217804c2bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Latin Production\.android\build-cache\d18842e9300f608064bcffe165730be8f762f084\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Latin Production\.android\build-cache\dfef7b9a3877a042f09cc3a28859d2bf4d9a34c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Latin Production\.android\build-cache\b0613d0675538292e703e3d228eae0cab18bf7eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Latin Production\.android\build-cache\479cc3a438bcca5b9802cf960bf727e88a9cf3e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Latin Production\.android\build-cache\486b6140c15778df2ab574450eb4da56abfe13a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Latin Production\.android\build-cache\e9a03c5d35125a4b709c632cb774c20b8c28c0e9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Latin Production\.android\build-cache\c1a2588fb2d010d01ac6cd9f406990e84cd4ea46\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Latin Production\.android\build-cache\230499f0660807a0c06367af02af48525557c922\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Latin Production\.android\build-cache\cd0a3f0ef6f8d179d2a08e8170994fbc394d039a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.david.namantert.Principal
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:12:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.david.namantert.Lista_Registros
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.example.david.namantert.Registrar_Empleado
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:20:19-53
+activity#com.example.david.namantert.Registrar_Material
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.david.namantert.Listas
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.example.david.namantert.Lista_Empleados
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.david.namantert.Listado_Materiales
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:24:9-56
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:24:19-53
+activity#com.example.david.namantert.Reportes
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:25:19-43
+activity#com.example.david.namantert.Compras_Registro_Clientes
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:26:9-63
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:26:19-60
+activity#com.example.david.namantert.Listado_Registro_Compras
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:27:9-62
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:27:19-59
+activity#com.example.david.namantert.Compra
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:28:19-41
+activity#com.example.david.namantert.Registrar_Cliente_Compra
+ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:29:9-71
+	android:name
+		ADDED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml:29:19-59
+uses-sdk
+INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Latin Production\.android\build-cache\b3c793b50e64f5d40079ffc8d8291b217804c2bf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Latin Production\.android\build-cache\d18842e9300f608064bcffe165730be8f762f084\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Latin Production\.android\build-cache\dfef7b9a3877a042f09cc3a28859d2bf4d9a34c6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Latin Production\.android\build-cache\b0613d0675538292e703e3d228eae0cab18bf7eb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Latin Production\.android\build-cache\479cc3a438bcca5b9802cf960bf727e88a9cf3e7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Latin Production\.android\build-cache\486b6140c15778df2ab574450eb4da56abfe13a6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Latin Production\.android\build-cache\e9a03c5d35125a4b709c632cb774c20b8c28c0e9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Latin Production\.android\build-cache\c1a2588fb2d010d01ac6cd9f406990e84cd4ea46\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Latin Production\.android\build-cache\230499f0660807a0c06367af02af48525557c922\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Latin Production\.android\build-cache\cd0a3f0ef6f8d179d2a08e8170994fbc394d039a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Latin Production\.android\build-cache\b3c793b50e64f5d40079ffc8d8291b217804c2bf\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Namantert-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Latin Production\.android\build-cache\b3c793b50e64f5d40079ffc8d8291b217804c2bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Latin Production\.android\build-cache\d18842e9300f608064bcffe165730be8f762f084\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Latin Production\.android\build-cache\dfef7b9a3877a042f09cc3a28859d2bf4d9a34c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Latin Production\.android\build-cache\b0613d0675538292e703e3d228eae0cab18bf7eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Latin Production\.android\build-cache\479cc3a438bcca5b9802cf960bf727e88a9cf3e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Latin Production\.android\build-cache\486b6140c15778df2ab574450eb4da56abfe13a6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Latin Production\.android\build-cache\e9a03c5d35125a4b709c632cb774c20b8c28c0e9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Latin Production\.android\build-cache\c1a2588fb2d010d01ac6cd9f406990e84cd4ea46\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Latin Production\.android\build-cache\230499f0660807a0c06367af02af48525557c922\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Latin Production\.android\build-cache\b3c793b50e64f5d40079ffc8d8291b217804c2bf\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Latin Production\.android\build-cache\b3c793b50e64f5d40079ffc8d8291b217804c2bf\output\AndroidManifest.xml:26:9-47
